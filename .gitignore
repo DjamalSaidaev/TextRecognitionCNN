@@ -1,0 +1,16 @@
+﻿*.jpg
+*.gif
+*.docx
+.idea/
+.ropeproject/
+Отчеты/
+eng_dataset/
+rus_dataset/
+test_images/
+__pycache__/
+.*
+*.zip
+*.txt
+*.log
+*.lnk
+*.h5
